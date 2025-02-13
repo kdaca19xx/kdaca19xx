@@ -1,6 +1,6 @@
 # Hey, I'm Kerstin! 👋🏿
 
-## About Me 🚀
+## About Me
 
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently (re-)learning JavaScript
@@ -11,7 +11,7 @@
 
 **The story so far...** My journey into web development could have been conventional, but it wasn't. As empowering as my discrete mathematics course was back in college (Pascal, anyone?), I gravitated toward the humanities. I was obsessed with immersing myself in the context-dependent discourse to which I hadn't yet been exposed as a student or a human being. Over time, I realized my path to web development wasn’t about abandoning my passion for language and people, but about blending the curiosity, empathy, and human connection of the humanities with the dynamic problem-solving culture that defines the tech industry.
 
-## My Skills 🧠
+## My Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 
 ## Get in Touch 📬
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/https://bsky.app/profile/kcarsoncodes.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/https://bsky.app/profile/https://bsky.app/profile/kcarsoncodes.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/kerstincarson)
 [![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kCarsonCodes)
 
