@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in MERN stack web development
 - 🌱 I’m currently (re-)learning JavaScript
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me kerstin.d.carson@gmail.com
