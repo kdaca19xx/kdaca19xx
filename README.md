@@ -2,10 +2,8 @@
 
 ## About Me
 
-- 👀 I’m interested in MERN stack web development
+- 💻 I’m interested in MERN stack web development
 - 🌱 I’m currently (re-)learning JavaScript
-- 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me kerstin.d.carson@gmail.com
 - 😄 01010000 01110010 01101111 01101110 01101111 01110101 01101110 01110011: 01110011 01101000 01100101/01101000 01100101 01110010/01101000 01100101 01110010 01110011
 - ⚡ Fun fact: I've been a student of Spanish and French since the 1990s. I've also studied American Sign Language and Arabic.
 
